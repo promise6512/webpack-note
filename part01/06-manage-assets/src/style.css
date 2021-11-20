@@ -1,0 +1,7 @@
+body{
+  background-color: #bfa;
+}
+
+.block-bg {
+  background-image: url("./assets//an.png") !important;
+}

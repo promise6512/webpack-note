@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "start": "webpack serve -c ./config/webpack.config.js --env development",
+    "build": "webpack -c ./config/webpack.config.js --env production"
+  }
+}

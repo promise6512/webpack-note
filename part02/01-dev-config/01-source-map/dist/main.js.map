@@ -1,0 +1,1 @@
+{"version":3,"file":"main.js","mappings":";;;;;AAAA","sources":["webpack://01-source-map/./app.js"],"sourcesContent":["console.log(\"hello webpack\")"],"names":[],"sourceRoot":""}
